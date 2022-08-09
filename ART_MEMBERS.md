@@ -17,3 +17,4 @@ By adding your name to this file you confirm that you understand and agree to th
 *Add your name and GitHub profile link below this line via a pull request to this repository.*
 * [Matthew F Leader](https://github.com/mfleader)
 * [Jared O'Connell](https://github.com/jaredoconnell)
+* [Marko Karg](https://github.com/mkarg75)
