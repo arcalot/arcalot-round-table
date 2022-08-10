@@ -18,3 +18,4 @@ By adding your name to this file you confirm that you understand and agree to th
 * [Matthew F Leader](https://github.com/mfleader)
 * [Jared O'Connell](https://github.com/jaredoconnell)
 * [Marko Karg](https://github.com/mkarg75)
+* [Harshith Umesh](https://github.com/Harshith-umesh)
