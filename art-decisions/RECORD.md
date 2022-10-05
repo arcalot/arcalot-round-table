@@ -2,19 +2,25 @@
 
 This file keeps a record of all decisions made by the Arcalot Round Table and might be split over time as the ART continues.
 
-## Name of the Decision
+## Propose exception for early chair nominations
 
-**Date: yyyy-mm-dd**
+**Date: 2022-10-05**
 
-Description
+> The [Arcalot Charter](https://github.com/arcalot/arcalot-round-table/blob/main/CHARTER.md#chair-elections) mandates a 6 months minimum membership for chair nominations, but the Arcalot organization is less than 6 months old, therefore this proposal is making **any Arcalot member as of the 4th of October 2022 eligible to become an Arcalot Chair** for this election only. In light of the rule change for chair voting, this proposal is open for voting using pull request reviews **until the 12th of October**.
 
-- Pull request: #x
-- Proposal: [proposals/template.md](proposals/template.md)
+- Pull request: [#7](https://github.com/arcalot/arcalot-round-table/pull/7)
+- Proposal: [proposals/2022-10-05-chair-election-exception.md](proposals/2022-10-05-chair-election-exception.md)
 
 ### Voted in favor:
 
-* Link to GitHub usernames using `@username`
+* [@sanjacodes](https://github.com/sanjacodes)
+* [@sandrobonazzola](https://github.com/sandrobonazzola)
+* [@jaredoconnell](https://github.com/jaredoconnell)
+* [@jdowni000](https://github.com/jdowni000)
+* [@mfleader](https://github.com/mfleader)
+* [@janosdebugs](https://github.com/janosdebugs)
+* [@dustinblack](https://github.com/dustinblack)
 
 ### Voted against:
 
-* Link to GitHub usernames using `@username`
+* *None*
