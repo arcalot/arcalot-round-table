@@ -20,6 +20,7 @@ This file keeps a record of all decisions made by the Arcalot Round Table and mi
 * [@mfleader](https://github.com/mfleader)
 * [@janosdebugs](https://github.com/janosdebugs)
 * [@dustinblack](https://github.com/dustinblack)
+* [@Harshith-umesh](https://github.com/Harshith-umesh)
 
 ### Voted against:
 
