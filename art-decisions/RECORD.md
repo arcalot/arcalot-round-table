@@ -2,6 +2,30 @@
 
 This file keeps a record of all decisions made by the Arcalot Round Table and might be split over time as the ART continues.
 
+## Nomination of Peter Portante as chair
+
+**Date: 2022-10-11**
+
+Nomination of [Peter Portante](https://github.com/portante) as a Chair of Arcalot to replace [Sanja Bonic](https://github.com/sanjacodes).
+- 
+- Pull request: [#9](https://github.com/arcalot/arcalot-round-table/pull/9)
+- Proposal: [proposals/2022-10-05-chair-nomination-peter-portante.md](proposals/2022-10-05-chair-nomination-peter-portante.md)
+
+### Voted in favor:
+
+* [@sanjacodes](https://github.com/sanjacodes)
+* [@sandrobonazzola](https://github.com/sandrobonazzola)
+* [@janosdebugs](https://github.com/janosdebugs)
+* [@mkarg75](https://github.com/mkarg75)
+* [@jaredoconnell](https://github.com/jaredoconnell)
+* [@Harshith-umesh](https://github.com/Harshith-umesh)
+* [@dustinblack](https://github.com/dustinblack)
+* [@jdowni000](https://github.com/jdowni000)
+
+### Voted against:
+
+* *None*
+
 ## Propose exception for early chair nominations
 
 **Date: 2022-10-05**
@@ -25,3 +49,4 @@ This file keeps a record of all decisions made by the Arcalot Round Table and mi
 ### Voted against:
 
 * *None*
+

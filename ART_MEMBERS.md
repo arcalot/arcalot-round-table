@@ -9,7 +9,7 @@ By adding your name to this file you confirm that you understand and agree to th
 * [Dustin Black](https://github.com/dustinblack)
 * [Sandro Bonazzola](https://github.com/sandrobonazzola)
 * [Janos Bonic](https://github.com/janosdebugs)
-* to be nominated
+* [Peter Portante](https://github.com/portante)
 
 
 ## ART Members
@@ -19,7 +19,6 @@ By adding your name to this file you confirm that you understand and agree to th
 * [Jared O'Connell](https://github.com/jaredoconnell)
 * [Marko Karg](https://github.com/mkarg75)
 * [Harshith Umesh](https://github.com/Harshith-umesh)
-* [Peter Portante](https://github.com/portante)
 * [Justin Downie](https://github.com/jdowni000)
 * [Sanja Bonic](https://github.com/sanjacodes)
 * [Michael Engel](https://github.com/engelmi)
