@@ -22,3 +22,4 @@ By adding your name to this file you confirm that you understand and agree to th
 * [Peter Portante](https://github.com/portante)
 * [Justin Downie](https://github.com/jdowni000)
 * [Sanja Bonic](https://github.com/sanjacodes)
+* [Michael Engel](https://github.com/engelmi)
