@@ -6,6 +6,7 @@ References:
 
 [pbench .pre-commit-config.yaml](https://github.com/distributed-system-analysis/pbench/blob/main/.pre-commit-config.yaml)
 [pbench pyproject.yaml](https://github.com/distributed-system-analysis/pbench/blob/main/pyproject.toml)
+[pbench CI](https://github.com/distributed-system-analysis/pbench/blob/64364eeb2d027ce562da4861af9a588cc18a6d8d/build.sh#L27)
 
 ## Benefits
 
