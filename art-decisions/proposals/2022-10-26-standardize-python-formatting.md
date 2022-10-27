@@ -19,10 +19,13 @@ The CI environment will include a series of checks to ensure the above
 requirements are met using the following commands:
 
 ```
+$ isort --profile black --check .
 $ black --check .
-$ isort --profile=black --check .
 $ flake8 .
 ```
+
+Acceptance of this proposal would require applying the formatting first to all
+existing code at the same time as adding the `pre-commit` hooks.
 
 ## Recommendation
 
@@ -31,6 +34,26 @@ recommend that we simply adopt the standards already established by the
 [pbench](https://github.com/distributed-system-analysis/pbench) repository and
 eliminate further debate on the topic. This formatting standard should also be
 applied wherever possible with automation and CI.
+
+Locally, one would first run `isort --profile black` to get the imports
+sorted, then run `black` to fix up the formatting, then verify the remainder
+of PEP 8 using `flake8`.
+
+Here is an example set of scripts one can use locally for any changed Python
+file.
+
+`apply-pep-8`:
+```
+#!/bin/bash
+function gitpyfiles {
+    git status -s --ignored=no --untracked-files=no | awk '{print $2}' | while read line; do
+        file ${line} 2> /dev/null | grep -F "Python script" | awk -F ':' '{print $1}'
+    done
+}
+
+pyfs=$(gitpyfiles)
+isort --profile black ${pyfs} && black ${pyfs} && flake8 ${pyfs}
+```
 
 References:
 
