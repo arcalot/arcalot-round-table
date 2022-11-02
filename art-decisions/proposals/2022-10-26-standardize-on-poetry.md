@@ -5,6 +5,8 @@ All python projects in Arcalot should standardize on the use of
 This standard should be built into documentation and contribution guidelines,
 included in any templates, and should be checked automatically by CI.
 
+Voting period for this proposal will end 14 days after its original submission.
+
 ## Benefits
 
 From @mfleader:
