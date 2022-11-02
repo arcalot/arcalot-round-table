@@ -27,6 +27,8 @@ $ flake8 .
 Acceptance of this proposal would require applying the formatting first to all
 existing code at the same time as adding the `pre-commit` hooks.
 
+Voting period for this proposal will end 14 days after its original submission.
+
 ## Recommendation
 
 We should set one standard and adhere to it judiciously without exception. I
