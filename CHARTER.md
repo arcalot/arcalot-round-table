@@ -34,9 +34,9 @@ Each member of the Arcalot Round Table is eligible for voting if they have been 
 
 If the majority cannot be reached, the proposal is considered rejected and can be brought to the ART again 2 months after the rejection at the earliest. If the same decision has been rejected twice, it cannot be brought to the ART again.
 
-Any voting period must last at least 7 days to account for different time zones and other obligations. Silence equals abstaining from a vote.
+Any voting period must last at least 7 days to account for different time zones and other obligations, and should last no longer than 30 days. The voting period should be stated in the proposal.
 
-ART members cast their votes by starting a review that either approves or rejects the decision suggested via a pull request. Once the voting period is over or all ART members have voted, the chairs record the decision, objections, and other relevant information in the `art-decisions` folder.
+ART members cast their votes by starting a review that either approves or rejects the decision suggested via a pull request. Once the voting period is over or all ART members have voted, the chairs record the decision, objections, and other relevant information in the `art-decisions` folder. Silence equals abstaining from a vote.
 
 ## Chair Elections
 
