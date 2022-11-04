@@ -14,7 +14,7 @@ From @mfleader:
 `requirements.txt` in no way defines how a python project can be built and
 published as a package. From [PyPA](https://www.pypa.io/en/latest/) on python
 project configuration, the `pyproject.toml` is equivalent to `requirements.txt
-&& setup.py`. If we're requiring that plugins to be publishable, and `setup.py`
+&& setup.py`. If we're requiring plugins to be publishable, and `setup.py`
 is deprecated, then we have to require `pyproject.toml`, and `requirements.txt`
 is redundant.
 
