@@ -31,11 +31,11 @@ Voting period for this proposal will end 14 days after its original submission.
 
 ## Recommendation
 
-We should set one standard and adhere to it judiciously without exception. I
-recommend that we simply adopt the standards already established by the
-[pbench](https://github.com/distributed-system-analysis/pbench) repository and
-eliminate further debate on the topic. This formatting standard should also be
-applied wherever possible with automation and CI.
+It is important that we adhere to one standard judiciously and eliminate further
+debate on the topic. The standards documented above match the standards already
+adopted by the [pbench](https://github.com/distributed-system-analysis/pbench)
+repository. This formatting standard should also be applied wherever possible to
+automation and CI.
 
 Locally, one would first run `isort --profile black` to get the imports
 sorted, then run `black` to fix up the formatting, then verify the remainder
