@@ -2,6 +2,31 @@
 
 This file keeps a record of all decisions made by the Arcalot Round Table and might be split over time as the ART continues.
 
+## Standardize python projects on poetry
+
+**Date: 2022-11-04**
+
+Standardize on the use of [poetry](https://python-poetry.org/) for dependency management a packaging for all python projects.
+
+- Pull request: [#15](https://github.com/arcalot/arcalot-round-table/pull/15)
+- Proposal: [proposals/2022-10-26-standardize-on-poetry.md](proposals/2022-10-26-standardize-on-poetry.md)
+
+### Voted in favor:
+
+* [@dustinblack](https://github.com/dustinblack)
+* [@sandrobonazzola](https://github.com/sandrobonazzola)
+* [@portante](https://github.com/portante)
+* [@mkarg75](https://github.com/mkarg75)
+* [@Harshith-umesh](https://github.com/Harshith-umesh)
+* [@jaredoconnell](https://github.com/jaredoconnell)
+* [@jdowni000](https://github.com/jdowni000)
+* [@mfleader](https://github.com/mfleader)
+* [@janosdebugs](https://github.com/janosdebugs)
+
+### Voted against:
+
+* *None*
+
 ## Nomination of Peter Portante as chair
 
 **Date: 2022-10-11**
