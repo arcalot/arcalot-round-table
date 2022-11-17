@@ -21,4 +21,6 @@ By adding your name to this file you confirm that you understand and agree to th
 * [Harshith Umesh](https://github.com/Harshith-umesh)
 * [Justin Downie](https://github.com/jdowni000)
 * [Michael Engel](https://github.com/engelmi)
+* [Hubert Stefanski](https://github.com/HubertStefanski)
+* [Ryan Smith](https://github.com/AvlWx2014)
 * [Tullio Sebastiani](https://github.com/tsebastiani)
