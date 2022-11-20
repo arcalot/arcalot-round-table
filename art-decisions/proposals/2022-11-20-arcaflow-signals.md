@@ -100,7 +100,7 @@ First, we introduce the following states for a step:
 1. **Deployed:** The plugin has been deployed, but no execution has started yet. This is useful for the deployer to emit information, such as the IP Address.
 2. **Running:** The plugin execution has started and the plugin can now send and receive signals.
 3. **Crashed:** The plugin execution has ended unexpectedly. This will cause the workflow to fail.
-4. **Finished:** The plugin executioin has finished normally.
+4. **Finished:** The plugin execution has finished normally.
 
 ### Effects on the dependency tree
 
