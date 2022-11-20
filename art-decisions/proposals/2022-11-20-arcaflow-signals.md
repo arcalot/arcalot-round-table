@@ -68,7 +68,14 @@ steps:
 The current normal output results will also be transformed into signals, which depend on the completion of a plugin.
 However, a plugin is now allowed to not declare an output and work with signals instead.
 
-The workflow outputs will work as before.
+The workflow outputs will work as before. They act as a signal channel that will only ever receive one signal and then
+be closed.
+
+Workflow outputs can reference outputs in the same way and will receive the single signal that is sent in the event that
+the plugin outputs that particular output.
+
+If workflow outputs reference non-output signals, they should use the `collect()` function or similar to make sure they
+capture all signals in a particular channel if that is desired.
 
 ### Prematurely stopping plugin execution
 
