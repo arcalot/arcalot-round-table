@@ -79,7 +79,7 @@ capture all signals in a particular channel if that is desired.
 
 ### Prematurely stopping plugin execution
 
-With the help of a signal, a plugin author can stop the execution of a plugin prematurely. The plugin will receive a
+With the help of a signal, a workflow author can stop the execution of a plugin prematurely. The plugin will receive a
 notification of the signal and may decide to end correctly or crash.
 
 The workflow author may declare this as follows (syntax may change):
@@ -92,6 +92,8 @@ steps:
     stop_if:
       - !expr $.steps.uperf_client.state.finished
 ```
+
+If such a situation happens, the plugin will receive a `SIGTERM`. The plugin is allowed to emit an output or additional signals, but must then terminate in an orderly fashion. Should the plugin not terminate within a timeout (default: 30 seconds), the plugin will be stopped with a `SIGKILL`. Python SDK users will get appropriate hooks to interrupt the execution.
 
 ### Step states
 
