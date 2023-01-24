@@ -2,6 +2,53 @@
 
 This file keeps a record of all decisions made by the Arcalot Round Table and might be split over time as the ART continues.
 
+## Adding signals to the Arcaflow execution model
+
+**Date: 2023-01-23**
+
+In this proposal, we transform the execution of Arcaflow by adding the ability to send and receive signals via signal channels. Each signal channel will have a schema and is declared by a plugin. Workflow authors can take these signals and pipe them into other plugins that have declared they can receive signals.
+
+- Pull request: [#24](https://github.com/arcalot/arcalot-round-table/pull/24)
+- Proposal: [proposals/2022-11-20-arcaflow-signals.md](proposals/2022-11-20-arcaflow-signals.md)
+
+### Voted in favor:
+
+* [@dustinblack](https://github.com/dustinblack)
+* [@jaredoconnell](https://github.com/jaredoconnell)
+* [@sandrobonazzola](https://github.com/sandrobonazzola)
+* [@tsebastiani](https://github.com/tsebastiani)
+* [@AvlWx2014](https://github.com/AvlWx2014)
+* [HubertStefanski](https://github.com/HubertStefanski)
+* [@Harshith-umesh](https://github.com/Harshith-umesh)
+* [@jdowni000](https://github.com/jdowni000)
+
+### Voted against:
+
+* *None*
+
+## Standardize on python code formatting requirements
+
+**Date: 2022-11-04**
+
+Standardize on python code formatting requirements for official Arcaflow contributions.
+
+- Pull request: [#16](https://github.com/arcalot/arcalot-round-table/pull/16)
+- Proposal: [proposals/2022-10-26-standardize-python-formatting.md](proposals/2022-10-26-standardize-python-formatting.md)
+
+### Voted in favor:
+
+* [@jaredoconnell](https://github.com/jaredoconnell)
+* [@sandrobonazzola](https://github.com/sandrobonazzola)
+* [@portante](https://github.com/portante)
+* [@mkarg75](https://github.com/mkarg75)
+* [@Harshith-umesh](https://github.com/Harshith-umesh)
+* [@jdowni000](https://github.com/jdowni000)
+* [@mfleader](https://github.com/mfleader)
+
+### Voted against:
+
+* *None*
+
 ## Standardize python projects on poetry
 
 **Date: 2022-11-04**
