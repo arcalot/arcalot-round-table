@@ -1,41 +1,15 @@
 # Title
 
-Currently, carpenters repository is named '
+Rename Carpenters repository to `arcalot/carpenter` and move reusable workflow yaml file to carpenter.
 
 ## Benefits
 
-From @mfleader:
+Currently, carpenters repository is named 'arcaflow-plugin-image-builder` with a pet name of carpenter. This can be confusing to some as carpenter is utilized in reusable workflows and other repositories by it's pet name for some things, but the repository name for others. Additionally, it shares the same naming convention as our offical plugins, however it itself is not a plugin. To clear this up I propose we rename the entire repository to simply arcalot/carpenter or any agreed upon name. 
 
-`requirements.txt` in no way defines how a python project can be built and
-published as a package. From [PyPA](https://www.pypa.io/en/latest/) on python
-project configuration, the `pyproject.toml` is equivalent to `requirements.txt
-&& setup.py`. If we're requiring plugins to be publishable, and `setup.py`
-is deprecated, then we have to require `pyproject.toml`, and `requirements.txt`
-is redundant.
+This change will separate the tool from the plugins and pave way for a much clearer readme.md file I am currently working on [here](https://github.com/jdowni000/arcaflow-plugin-image-builder/blob/docs/README_UPDATE.md#using-carpenter-in-reusable-workflow). This will simplify the entrypoint for new users to the tool and cause less confusion in the documentation with naming convention as well as usage.
 
-One of the main issues is that `pip` cannot ingest a `pyproject.toml` to install
-dependencies for local development. To maintain exactly one set of software
-dependencies (instead of a `pyproject.toml` and a `requirements.txt`) for your
-project, and to be able to publish that project, then you need a software tool
-that can programmatically interact with a `pyproject.toml` (i.e. add and remove
-software dependencies). If that software tool can also export the software
-dependencies defined in a `pyproject.toml` as a `requirements.txt`, then that's
-a bonus, so that other developers do not need to use the exact same software
-dependency manager. There just aren't many options for python software
-dependency management and/or python package publishing.
-
-An example with `poetry`:
-
-```bash
-poetry export --without-hashes --format=requirements.txt > requirements.txt
-```
-
-Exporting the `pyproject.toml` to a `requirements.txt` also means we do not need
-`poetry` in our python image build environment, but it is unclear how much that
-matters.
-
+Also I believe it would be a good time to move the reusable workflow file from [arcaflow-reusable-workflows](https://github.com/arcalot/arcaflow-reusable-workflows/blob/main/.github/workflows/carpenter.yaml), into the carpenter project itself. This will centralize the project and keep everything carpenter, with carpenter.
 
 ## Drawbacks
 
-This imposes more process and compliance requirements on contributors, forcing
-the integration of `poetry` into their workflows.
+This is a breaking change that impacts all repositories and users of carpenter. The naming convention change will require all projects to update the paths to use carpenter. Secondly, a new version will need to be released when this is done, once all PR's are merged it would be a good time for an official v1.0.0 release. Finally, any project using carpenter in a reusable workflow will need to update the path for the yaml file as well if the file was to move into carpenter. This can all be done pretty quickly with minimal effort but is very important to communicate to our end users and team. 
