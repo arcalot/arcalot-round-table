@@ -15,9 +15,9 @@ This proposal will make it so less manual work is required to get a workflow wor
 
 Proposed changes:
 - Make subexpressions default within map access since it is unintuitive as-is, removing the old () syntax. Moving from `map[(sub-expression)]` to `map[sub-expression]`
-- Add functions. Would be added as a root item, and therefore would work where subexpressions are supported. That would also make it so an expression can be exclusively a fuction call.
-- Add binary comparison operators. This would need to be another root item. This would be simple. `expression ==|!=|<|>|<=|>= expression`.
-- Mathematical expressions. These would be simple binary mathematical operators, with the potential for parhenthases for ordering changes.
+- Add functions. Would be added as a root item, and therefore would work where subexpressions are supported. That would also make it so an expression can be exclusively a function call. The functions will be strongly typed, with a standardized interface for their inputs and outputs, allowing type verification.
+- Add binary comparison operators. This would need to be another root item. This would be simple. `expression ==|!=|<|>|<=|>= expression`. Types must match, or else there will be a type error.
+- Mathematical expressions. These would be simple binary mathematical operators, with the potential for parhenthases for ordering changes. Will be strongly typed.
 
 Detailed issues for proposed changes:
 - [Functions](https://github.com/arcalot/arcaflow-expressions/issues/1)
