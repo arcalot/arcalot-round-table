@@ -2,6 +2,10 @@
 
 Rename Carpenters repository to `arcalot/carpenter` and move reusable workflow yaml file to carpenter.
 
+## Voting Period
+
+The voting period for this proposal will be open for 7 days from its submission as an active PR.
+
 ## Benefits
 
 Currently, carpenters repository is named `arcaflow-plugin-image-builder` with a pet name of carpenter. This can be confusing to some as carpenter is utilized in reusable workflows and other repositories by it's pet name for some things, but the repository name for others. Additionally, it shares the same naming convention as our offical plugins, however it itself is not a plugin. To clear this up I propose we rename the entire repository to simply arcalot/carpenter or any agreed upon name. 
