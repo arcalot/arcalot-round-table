@@ -17,7 +17,7 @@ Proposed changes:
 - Make subexpressions default within map access since it is unintuitive as-is, removing the old () syntax. Moving from `map[(sub-expression)]` to `map[sub-expression]`
 - Add functions. Would be added as a root item, and therefore would work where subexpressions are supported. That would also make it so an expression can be exclusively a function call. The functions will be strongly typed, with a standardized interface for their inputs and outputs, allowing type verification.
 - Add binary comparison operators. This would need to be another root item. This would be simple. `expression ==|!=|<|>|<=|>= expression`. Types must match, or else there will be a type error.
-- Mathematical expressions. These would be simple binary mathematical operators, with the potential for parhenthases for ordering changes. Will be strongly typed.
+- Mathematical expressions. These would be simple binary mathematical operators, with the potential for parentheses for ordering changes. Will be strongly typed.
 
 Detailed issues for proposed changes:
 - [Functions](https://github.com/arcalot/arcaflow-expressions/issues/1)
@@ -29,9 +29,9 @@ Detailed issues for proposed changes:
 - Mathematical expressions will be lower priority, with most of the work based on the work for the comparison operators.
 
 ### Approval
-By approving this proposal, you are agree to the addition of functions, binary comparison operators, and mathematical expressions to the language. Not necessarily the way it's implemented.
+By approving this proposal, you agree to the addition of functions, binary comparison operators, and mathematical expressions to the language. Not necessarily the way it's implemented.
 
-Discussion on how it is implemented can be debated in the issues on the expression repository linked above.
+Discussion on how it is implemented can be debated in the issues in the expression repository linked above.
 
 ## Drawbacks
 - It adds complexity to the language
