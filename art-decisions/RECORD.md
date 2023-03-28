@@ -2,6 +2,33 @@
 
 This file keeps a record of all decisions made by the Arcalot Round Table and might be split over time as the ART continues.
 
+## Rename Carpenters repository to `arcalot/arcaflow-container-toolkit`
+
+**Date: 2023-03-21**
+
+This change will separate the tool from the plugins and pave way for a much clearer readme.md file. This will simplify the entrypoint for new users to the tool and cause less confusion in the documentation with naming convention as well as usage.
+
+Also I believe it would be a good time to move the reusable workflow file from [arcaflow-reusable-workflows](https://github.com/arcalot/arcaflow-reusable-workflows/blob/main/.github/workflows/carpenter.yaml), into the carpenter project itself. This will centralize the project and keep everything carpenter, with carpenter.
+
+- Pull request: [#30](https://github.com/arcalot/arcalot-round-table/pull/30)
+- Proposal: [proposals/2023-03-09-carpenter-repository-rename.md](proposals/2023-03-09-carpenter-repository-rename.md)
+
+### Voted in favor:
+
+* [@sandrobonazzola](https://github.com/sandrobonazzola)
+* [@lmilbaum](https://github.com/lmilbaum)
+* [@dustinblack](https://github.com/dustinblack)
+* [@tsebastiani](https://github.com/tsebastiani)
+* [@HubertStefanski](https://github.com/HubertStefanski)
+* [@Harshith-umesh](https://github.com/Harshith-umesh)
+* [@jaredoconnell](https://github.com/jaredoconnell)
+* [@mfleader](https://github.com/mfleader)
+* [@janosdebugs](https://github.com/janosdebugs)
+
+### Voted against:
+
+* *None*
+
 ## Adding signals to the Arcaflow execution model
 
 **Date: 2023-01-23**
@@ -18,7 +45,7 @@ In this proposal, we transform the execution of Arcaflow by adding the ability t
 * [@sandrobonazzola](https://github.com/sandrobonazzola)
 * [@tsebastiani](https://github.com/tsebastiani)
 * [@AvlWx2014](https://github.com/AvlWx2014)
-* [HubertStefanski](https://github.com/HubertStefanski)
+* [@HubertStefanski](https://github.com/HubertStefanski)
 * [@Harshith-umesh](https://github.com/Harshith-umesh)
 * [@jdowni000](https://github.com/jdowni000)
 
