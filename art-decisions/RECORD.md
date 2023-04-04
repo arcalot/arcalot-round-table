@@ -2,6 +2,27 @@
 
 This file keeps a record of all decisions made by the Arcalot Round Table and might be split over time as the ART continues.
 
+## Expansion of Workflow Expression Language
+
+**Date: 2023-04-03**
+
+The current state of the expression language allows users to retrieve values from inputs and step output. That is enough for usable workloads, but is insuffient for many use cases. This proposal will make it so less manual work is required to get a workflow working.
+
+- Pull request: [#31](https://github.com/arcalot/arcalot-round-table/pull/31)
+- Proposal: [proposals/2023-03-14-expressions-expansion.md](proposals/2023-03-14-expressions-expansion.md)
+
+### Voted in favor:
+
+* [@sandrobonazzola](https://github.com/sandrobonazzola)
+* [@lmilbaum](https://github.com/lmilbaum)
+* [@dustinblack](https://github.com/dustinblack)
+* [@tsebastiani](https://github.com/tsebastiani)
+* [@HubertStefanski](https://github.com/HubertStefanski)
+* [@Harshith-umesh](https://github.com/Harshith-umesh)
+* [@jdowni000](https://github.com/jdowni000)
+* [@mfleader](https://github.com/mfleader)
+* [@janosdebugs](https://github.com/janosdebugs)
+
 ## Rename Carpenters repository to `arcalot/arcaflow-container-toolkit`
 
 **Date: 2023-03-21**
