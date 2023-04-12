@@ -9,7 +9,6 @@ By adding your name to this file you confirm that you understand and agree to th
 * [Dustin Black](https://github.com/dustinblack)
 * [Sandro Bonazzola](https://github.com/sandrobonazzola)
 * [Janos Bonic](https://github.com/janosdebugs)
-* [Peter Portante](https://github.com/portante)
 
 
 ## ART Members
@@ -25,3 +24,4 @@ By adding your name to this file you confirm that you understand and agree to th
 * [Tullio Sebastiani](https://github.com/tsebastiani)
 * [Liora Milbaum](https://github.com/lmilbaum)
 * [Ozan Unsal](https://github.com/ozanunsal)
+* [Peter Portante](https://github.com/portante)
