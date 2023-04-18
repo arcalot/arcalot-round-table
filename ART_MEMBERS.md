@@ -8,14 +8,14 @@ By adding your name to this file you confirm that you understand and agree to th
 
 * [Dustin Black](https://github.com/dustinblack)
 * [Sandro Bonazzola](https://github.com/sandrobonazzola)
-* [Janos Bonic](https://github.com/janosdebugs)
+* [Jared O'Connell](https://github.com/jaredoconnell)
 
 
 ## ART Members
 
 *Add your name and GitHub profile link below this line via a pull request to this repository.*
+* [Janos Bonic](https://github.com/janosdebugs)
 * [Matthew F Leader](https://github.com/mfleader)
-* [Jared O'Connell](https://github.com/jaredoconnell)
 * [Harshith Umesh](https://github.com/Harshith-umesh)
 * [Justin Downie](https://github.com/jdowni000)
 * [Michael Engel](https://github.com/engelmi)

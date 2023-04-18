@@ -2,6 +2,32 @@
 
 This file keeps a record of all decisions made by the Arcalot Round Table and might be split over time as the ART continues.
 
+## Promotion Jared O'Connell to Chair
+
+**Date: 2023-04-17**
+
+Janos Bonic has stepped down as an Arcalot chair, and Jared O'Connel has been nominated and approved to replace him.
+
+- Pull request: [#32](https://github.com/arcalot/arcalot-round-table/pull/32)
+- Proposal: [proposals/2023-03-20-janos-chair-election.md](proposals/2023-03-20-janos-chair-election.md)
+
+### Voted in favor:
+
+* [@sandrobonazzola](https://github.com/sandrobonazzola)
+* [@dustinblack](https://github.com/dustinblack)
+* [@tsebastiani](https://github.com/tsebastiani)
+* [@AvlWx2014](https://github.com/AvlWx2014)
+* [@engelmi](https://github.com/engelmi)
+* [@HubertStefanski](https://github.com/HubertStefanski)
+* [@Harshith-umesh](https://github.com/Harshith-umesh)
+* [@jaredoconnell](https://github.com/jaredoconnell)
+* [@jdowni000](https://github.com/jdowni000)
+* [@mfleader](https://github.com/mfleader)
+
+### Voted against:
+
+* *None*
+
 ## Expansion of Workflow Expression Language
 
 **Date: 2023-04-03**
@@ -22,6 +48,10 @@ The current state of the expression language allows users to retrieve values fro
 * [@jdowni000](https://github.com/jdowni000)
 * [@mfleader](https://github.com/mfleader)
 * [@janosdebugs](https://github.com/janosdebugs)
+
+### Voted against:
+
+* *None*
 
 ## Rename Carpenters repository to `arcalot/arcaflow-container-toolkit`
 
