@@ -14,7 +14,6 @@ By adding your name to this file you confirm that you understand and agree to th
 ## ART Members
 
 *Add your name and GitHub profile link below this line via a pull request to this repository.*
-* [Janos Bonic](https://github.com/janosdebugs)
 * [Matthew F Leader](https://github.com/mfleader)
 * [Harshith Umesh](https://github.com/Harshith-umesh)
 * [Justin Downie](https://github.com/jdowni000)
