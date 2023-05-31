@@ -8,20 +8,19 @@ By adding your name to this file you confirm that you understand and agree to th
 
 * [Dustin Black](https://github.com/dustinblack)
 * [Sandro Bonazzola](https://github.com/sandrobonazzola)
-* [Janos Bonic](https://github.com/janosdebugs)
-* [Peter Portante](https://github.com/portante)
+* [Jared O'Connell](https://github.com/jaredoconnell)
+* [Justin Downie](https://github.com/jdowni000) 
 
 
 ## ART Members
 
 *Add your name and GitHub profile link below this line via a pull request to this repository.*
 * [Matthew F Leader](https://github.com/mfleader)
-* [Jared O'Connell](https://github.com/jaredoconnell)
 * [Harshith Umesh](https://github.com/Harshith-umesh)
-* [Justin Downie](https://github.com/jdowni000)
 * [Michael Engel](https://github.com/engelmi)
 * [Hubert Stefanski](https://github.com/HubertStefanski)
 * [Ryan Smith](https://github.com/AvlWx2014)
 * [Tullio Sebastiani](https://github.com/tsebastiani)
 * [Liora Milbaum](https://github.com/lmilbaum)
 * [Ozan Unsal](https://github.com/ozanunsal)
+* [Peter Portante](https://github.com/portante)
