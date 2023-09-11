@@ -7,7 +7,6 @@ By adding your name to this file you confirm that you understand and agree to th
 ## ART Chairs
 
 * [Dustin Black](https://github.com/dustinblack)
-* [Sandro Bonazzola](https://github.com/sandrobonazzola)
 * [Jared O'Connell](https://github.com/jaredoconnell)
 * [Justin Downie](https://github.com/jdowni000) 
 
