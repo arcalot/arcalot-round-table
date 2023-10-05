@@ -2,6 +2,31 @@
 
 This file keeps a record of all decisions made by the Arcalot Round Table and might be split over time as the ART continues.
 
+## Promotion Justin Downie to Chair
+
+**Date: 2023-05-19**
+
+Peter Portante has stepped down as an Arcalot chair, and Justin Downie has been nominated and approved to replace him.
+
+- Pull request: [#39](https://github.com/arcalot/arcalot-round-table/pull/39)
+- Proposal: [proposals/2023-05-16-downie-chair-nomination.md](proposals/2023-05-16-downie-chair-nomination.md)
+
+### Voted in favor:
+
+* [@dustinblack](https://github.com/dustinblack)
+* [@sandrobonazzola](https://github.com/sandrobonazzola)
+* [@lmilbaum](https://github.com/lmilbaum)
+* [@tsebastiani](https://github.com/tsebastiani)
+* [@AvlWx2014](https://github.com/AvlWx2014)
+* [@HubertStefanski](https://github.com/HubertStefanski)
+* [@Harshith-umesh](https://github.com/Harshith-umesh)
+* [@jdowni000](https://github.com/jdowni000)
+* [@mfleader](https://github.com/mfleader)
+
+### Voted against:
+
+* *None*
+
 ## Promotion Jared O'Connell to Chair
 
 **Date: 2023-04-17**
