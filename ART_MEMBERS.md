@@ -22,6 +22,5 @@ By adding your name to this file you confirm that you understand and agree to th
 * [Tullio Sebastiani](https://github.com/tsebastiani)
 * [Liora Milbaum](https://github.com/lmilbaum)
 * [Ozan Unsal](https://github.com/ozanunsal)
-* [Peter Portante](https://github.com/portante)
 * [Webb Scales](https://github.com/webbnh)
 * [Dave Butenhof](https://github.com/dbutenhof)
