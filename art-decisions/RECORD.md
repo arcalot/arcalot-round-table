@@ -2,6 +2,29 @@
 
 This file keeps a record of all decisions made by the Arcalot Round Table and might be split over time as the ART continues.
 
+## Promotion Matt Leader to Chair
+
+**Date: 2023-10-23**
+
+Matt Leader has been nominated and approved as an Arcalot Chair.
+
+- Pull request: [#41](https://github.com/arcalot/arcalot-round-table/pull/41)
+- Proposal: [proposals/2023-10-09-matt-chair-nomination.md](proposals/2023-10-09-matt-chair-nomination.md)
+
+### Voted in favor:
+
+* [@lmilbaum](https://github.com/lmilbaum)
+* [@dustinblack](https://github.com/dustinblack)
+* [@tsebastiani](https://github.com/tsebastiani)
+* [@HubertStefanski](https://github.com/HubertStefanski)
+* [@Harshith-umesh](https://github.com/Harshith-umesh)
+* [@jaredoconnell](https://github.com/jaredoconnell)
+* [@mfleader](https://github.com/mfleader)
+
+### Voted against:
+
+* *None*
+
 ## Promotion Justin Downie to Chair
 
 **Date: 2023-05-19**

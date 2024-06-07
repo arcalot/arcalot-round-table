@@ -8,13 +8,13 @@ By adding your name to this file you confirm that you understand and agree to th
 
 * [Dustin Black](https://github.com/dustinblack)
 * [Jared O'Connell](https://github.com/jaredoconnell)
-* [Justin Downie](https://github.com/jdowni000) 
+* [Justin Downie](https://github.com/jdowni000)
+* [Matthew F Leader](https://github.com/mfleader)
 
 
 ## ART Members
 
 *Add your name and GitHub profile link below this line via a pull request to this repository.*
-* [Matthew F Leader](https://github.com/mfleader)
 * [Harshith Umesh](https://github.com/Harshith-umesh)
 * [Michael Engel](https://github.com/engelmi)
 * [Hubert Stefanski](https://github.com/HVBE)
