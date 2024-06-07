@@ -17,7 +17,7 @@ By adding your name to this file you confirm that you understand and agree to th
 * [Matthew F Leader](https://github.com/mfleader)
 * [Harshith Umesh](https://github.com/Harshith-umesh)
 * [Michael Engel](https://github.com/engelmi)
-* [Hubert Stefanski](https://github.com/HubertStefanski)
+* [Hubert Stefanski](https://github.com/HVBE)
 * [Ryan Smith](https://github.com/AvlWx2014)
 * [Tullio Sebastiani](https://github.com/tsebastiani)
 * [Liora Milbaum](https://github.com/lmilbaum)
