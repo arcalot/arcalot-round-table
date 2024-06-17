@@ -2,6 +2,30 @@
 
 This file keeps a record of all decisions made by the Arcalot Round Table and might be split over time as the ART continues.
 
+## Retire Arcalog
+
+**Date: 2024-06-17**
+
+Arcalog will be retired from the Arcalot organization and its repo archived.
+
+- Pull request: [#45](https://github.com/arcalot/arcalot-round-table/pull/45)
+- Proposal [proposals/2024-06-03-retire-arcalog.md](proposals/2024-06-03-retire-arcalog.md)
+
+### Voted in favor:
+
+* [@webbnh](https://github.com/webbnh)
+* [@tsebastiani](https://github.com/tsebastiani)
+* [@AvlWx2014](https://github.com/AvlWx2014)
+* [@Harshith-umesh](https://github.com/Harshith-umesh)
+* [@jaredoconnell](https://github.com/jaredoconnell)
+* [@jdowni000](https://github.com/jdowni000)
+* [@dbutenhof](https://github.com/dbutenhof)
+* [@mfleader](https://github.com/mfleader)
+
+### Voted against:
+
+* *None*
+
 ## Promotion Matt Leader to Chair
 
 **Date: 2023-10-23**
