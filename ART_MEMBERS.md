@@ -16,7 +16,6 @@ By adding your name to this file you confirm that you understand and agree to th
 
 *Add your name and GitHub profile link below this line via a pull request to this repository.*
 * [Harshith Umesh](https://github.com/Harshith-umesh)
-* [Michael Engel](https://github.com/engelmi)
 * [Hubert Stefanski](https://github.com/HVBE)
 * [Ryan Smith](https://github.com/AvlWx2014)
 * [Tullio Sebastiani](https://github.com/tsebastiani)
