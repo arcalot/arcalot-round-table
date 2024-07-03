@@ -2,6 +2,29 @@
 
 This file keeps a record of all decisions made by the Arcalot Round Table and might be split over time as the ART continues.
 
+## Implement Arcaflow Roadmap
+
+**Date: 2024-07-03**
+
+Arcaflow will establish a high-level roadmap used to guide the project's strategic direction.
+
+- Pull request: [#48](https://github.com/arcalot/arcalot-round-table/pull/48)
+- Proposal [proposals/2024-06-07-arcaflow-roadmap.md](proposals/2024-06-07-arcaflow-roadmap.md)
+
+### Voted in favor:
+
+* [@dustinblack](https://github.com/dustinblack)
+* [@webbnh](https://github.com/webbnh)
+* [@Harshith-umesh](https://github.com/Harshith-umesh)
+* [@jaredoconnell](https://github.com/jaredoconnell)
+* [@jdowni000](https://github.com/jdowni000)
+* [@dbutenhof](https://github.com/dbutenhof)
+* [@mfleader](https://github.com/mfleader)
+
+### Voted against:
+
+* *None*
+
 ## Retire Arcalog
 
 **Date: 2024-06-17**
@@ -13,6 +36,7 @@ Arcalog will be retired from the Arcalot organization and its repo archived.
 
 ### Voted in favor:
 
+* [@dustinblack](https://github.com/dustinblack)
 * [@webbnh](https://github.com/webbnh)
 * [@tsebastiani](https://github.com/tsebastiani)
 * [@AvlWx2014](https://github.com/AvlWx2014)
