@@ -32,21 +32,21 @@ Chairs are expected to remain actively involved in the community. A chair who do
 
 ## Proposals
 
-Proposals may only be made asychronously via the [ART repository pull requests](https://github.com/arcalot/arcalot-round-table/pulls) by submitting a pull request with a new file to [`art-decisions/proposals`](art-decisions/proposals). The provided [template file](art-decisions/proposals/template.md) may be used as a guideline for new proposals. Proposals may only be submitted by current ART members. If you would like to encourage discussion around a proposal before any voting starts, please submit a draft PR instead and mark it ready for review once you are comfortable that you will not make any changes to your proposal.
+Proposals may only be made asychronously by submitting a pull request to this repository with a new file in the [`art-decisions/proposals`](art-decisions/proposals) directory. The provided [template file](art-decisions/proposals/template.md) may be used as a guideline for new proposals. Proposals may only be submitted by current ART members. If you would like to encourage discussion around a proposal before any voting starts, please submit a draft pull request instead, and mark it ready for review once you are comfortable that you will not make any changes to your proposal. Open pull requests can be viewed at the [ART repository pull requests](https://github.com/arcalot/arcalot-round-table/pulls) page.
 
 ## Voting
 
-Each member of the ART is eligible for voting if they have been a member for at least 30 days. For any proposal that impacts the whole project or processes, **approval requires a minimum of four votes with 75% approval among those voting**.
+Each member of the ART is eligible to vote if they have been a member for at least 30 days. For any proposal that impacts the whole project or processes, **approval requires a minimum of four votes with 75% approval among those voting**.
 
-Any vote must be open for at least 7 calendar days to account for different time zones and other obligations and should last no longer than 30 days. The voting period should be stated in the proposal in calendar days. The voting period begins on the day the pull request is opened for review and ends at midnight [AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) on the last day of the voting period. Proposals can be extended for no longer than 30 days total. Extensions can be made before the end of the current voting period by the original submitter, their direct representative, or one of the ART chairs by updating the PR with a note stating the number of calendar days for the extension. **If approval is not reached within the voting period deadline, the proposal is rejected.**
+Any vote must be open for at least 7 calendar days to account for different time zones and other obligations and must be open no longer than 30 days. The voting period must be stated in the proposal in calendar days. The voting period begins on the day the pull request is opened for review and ends at midnight [AoE](https://en.wikipedia.org/wiki/Anywhere_on_Earth) on the last day of the voting period. Proposals can be extended for no longer than 30 days total. Extensions can be made before the end of the current voting period by the original submitter, their direct representative, or one of the ART chairs by updating the pull request with a note stating the number of calendar days for the extension. **If approval is not reached within the voting period deadline, the proposal is rejected.**
 
 A rejected proposal may only be submitted to the ART again after a miniumum of 30 days following a rejection. If the same proposal is rejected twice, it will not be considered again by the ART.
 
-ART members cast their votes by starting a review that either approves or rejects the proposal pull request. A rejection vote is recorded by using the *Request changes* function of the pull request review and providing a reason for their rejection in the comment. Once the voting period is over or all ART members have voted, the chairs record the decision, objections, and other relevant information in the [`art-decisions` folder](art-decisions).
+ART members cast their votes by reviewing the pull request. An approval vote is cast by approving the pull request, and a rejection vote is cast by using the *Request changes* function and providing a reason for their rejection in the comment. Once the voting period is over or all ART members have voted, the chairs record the decision, objections, and other relevant information in the [`art-decisions` folder](art-decisions).
 
 ## Chair Elections
 
-If a chair leaves through non-participation, through their own announcement, or thorough the representative announcement of another chair, elections for a new chair take place.
+If a chair leaves through non-participation, through their own announcement, or through the representative announcement of another chair, elections for a new chair take place.
 
 After the announcement of a chair leaving, there is a period of 30 days for nominations (from the date of the announcement). Any ART member can nominate another ART member or themselves, while a second member has to sponsor the nomination. Only members that have been part of the ART for at least six months are eligible to become a chair or sponsor a nomination.
 
