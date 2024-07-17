@@ -46,7 +46,7 @@ ART members cast their votes by reviewing the pull request. An approval vote is 
 
 ## Chair Elections
 
-If a chair leaves through non-participation, through their own announcement, or through the representative announcement of another chair, elections for a new chair take place.
+If a chair leaves through non-participation, through their own resignation, or due to an incapacity to carry out their duties, elections for a new chair take place.
 
 After the announcement of a chair leaving, there is a period of 30 days for nominations (from the date of the announcement). Any ART member can nominate another ART member or themselves, while a second member has to sponsor the nomination. Only members that have been part of the ART for at least six months are eligible to become a chair or sponsor a nomination.
 
