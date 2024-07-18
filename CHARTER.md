@@ -109,12 +109,12 @@ process as standard proposals.
 
 Removing or disciplining an ART member due to a violation of the [Arcalot Code of
 Conduct](https://github.com/arcalot/.github/blob/main/CODE_OF_CONDUCT.md) is initiated
-by any chair as a pull request to the ART. Only the the chairs vote on these matters,
-with an approval by unanimous consent of the active chairs and with a 7 calendar day
-voting period. In the case of a dissenting vote, unanimous consent is not achieved, and
-the matter moves to the normal proposal process as described above. An appeal may be
-made by any active ART member or by the affected party within 7 calendar days of the the
-removal or discipline action taking effect via the normal proposal process.
+by any chair as a pull request to the ART. Only the chairs vote on these matters, with
+an approval by unanimous consent of the active chairs and with a 7 calendar day voting
+period. In the case of a dissenting vote, unanimous consent is not achieved, and the
+matter moves to the normal proposal process as described above. An appeal may be made by
+any active ART member or by the affected party within 7 calendar days of the removal or
+discipline action taking effect via the normal proposal process.
 
 ## Changing the Charter
 
