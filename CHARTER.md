@@ -29,7 +29,7 @@ The Arcalot Round Table (ART) consists of:
 If you wish to join the ART, please submit a pull request adding yourself to the
 [`ART_MEMBERS.md`](ART_MEMBERS.md) file. Please describe your use case in the pull
 request comments; you do not need to mention any company names or details. Joining is
-finalized upon two pull request approvals by active chairs and the merging of the pull
+finalized upon two pull request approvals by the chairs and the merging of the pull
 request.
 
 Community meetings are not compulsory as we want to include people in all stages of life
@@ -88,8 +88,8 @@ and the changes they would like to see made. Once the voting period is over or a
 members have voted, the pull request is merged into the `main` branch (always, whether
 approved or rejected). The chairs then record the decision, dissenting comments, and
 other relevant information in the [`RECORD.md`](art-decisions/RECORD.md) file via
-another pull request that is reviewed and approved by two active chairs to ensure
-accuracy.
+another pull request that is reviewed and approved by at least 50% of the chairs to
+ensure accuracy.
 
 ## Chair Elections
 
@@ -105,14 +105,17 @@ nomination.
 After the nomination period, elections take place asynchronously through the same
 process as standard proposals.
 
+A proposal to remove a chair from their position for any reason other than those stated
+at the beginning of this section follows the normal proposal process.
+
 ## Code of Conduct Enforcement
 
 Removing or disciplining an ART member due to a violation of the [Arcalot Code of
 Conduct](https://github.com/arcalot/.github/blob/main/CODE_OF_CONDUCT.md) is initiated
 by any chair as a pull request to the ART. Only the chairs vote on these matters, with
-an approval by unanimous consent of the active chairs and with a 7 calendar day voting
-period. In the case of a dissenting vote, unanimous consent is not achieved, and the
-matter moves to the normal proposal process as described above. An appeal may be made by
+an approval by a majority of the chairs voting in favor with none voting against and
+with a 7 calendar day voting period. In the case of a dissenting vote, consent is not
+achieved, and the matter moves to the normal proposal process. An appeal may be made by
 any active ART member or by the affected party within 7 calendar days of the removal or
 discipline action taking effect via the normal proposal process.
 
@@ -120,4 +123,4 @@ discipline action taking effect via the normal proposal process.
 
 This charter can be changed by a pull request passing the same threshold of voting as
 any other proposal with the additional requirement of having no more than one rejection
-vote from an active chair.
+vote from a chair.
