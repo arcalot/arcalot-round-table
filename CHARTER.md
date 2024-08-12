@@ -66,8 +66,8 @@ requests](https://github.com/arcalot/arcalot-round-table/pulls) page.
 ## Voting
 
 Each member of the ART is eligible to vote if they have been a member for at least 30
-days. For any proposal that impacts the whole project or processes, **approval requires
-a minimum of four votes with 75% approval among those voting**.
+days. For any proposal, **approval requires a minimum of four votes with 75% approval
+among those voting**.
 
 Any vote must be open for at least 7 calendar days to account for different time zones
 and other obligations and must be open no longer than 30 days. The voting period must be
@@ -112,11 +112,12 @@ at the beginning of this section follows the normal proposal process.
 
 Removing or disciplining an ART member due to a violation of the [Arcalot Code of
 Conduct](https://github.com/arcalot/.github/blob/main/CODE_OF_CONDUCT.md) is initiated
-by any chair as a pull request to the ART. Only the chairs vote on these matters, with
-an approval by a majority of the chairs voting in favor with none voting against. In the
-case of a dissenting vote, consent is not achieved, and the matter moves to the normal
-proposal process. An appeal may be made by any ART member or by the affected party via
-the normal proposal process.
+by any chair as a pull request to the ART. Voting for matters of discipline and member
+removal is by chairs only. All chairs must vote on these matters or explicitly abstain
+via a comment in the pull request. Approval is reached by a majority of the chairs
+voting in favor with none voting against. In the case of a dissenting vote, approval is
+not reached, and the matter moves to the normal proposal process. An appeal may be made
+by any ART member or by the affected party via the normal proposal process.
 
 ## Changing the Charter
 
