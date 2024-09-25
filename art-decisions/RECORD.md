@@ -2,6 +2,31 @@
 
 This file keeps a record of all decisions made by the Arcalot Round Table and might be split over time as the ART continues.
 
+## Charter Revision
+
+**Date: 2024-08-12**
+
+Updating the charter to change voting thresholds, clarify specific situations, and remove the automatic termination of community membership.
+
+- Pull request: [#53](https://github.com/arcalot/arcalot-round-table/pull/53)
+- This was not submitted as a standard decision, and was instead submitted as a PR on the charter file.
+
+### Voted in favor:
+* [@webbnh](https://github.com/webbnh)
+* [@tsebastiani](https://github.com/tsebastiani)
+* [@Harshith-umesh](https://github.com/Harshith-umesh)
+* [@jaredoconnell](https://github.com/jaredoconnell)
+* [@jdowni000](https://github.com/jdowni000)
+* [@dbutenhof](https://github.com/dbutenhof)
+* [@mfleader](https://github.com/mfleader)
+
+### Voted Against
+* *None*
+
+### Did not vote
+* [@AvlWx2014](https://github.com/AvlWx2014)
+* [@HVBE](https://github.com/HVBE)
+
 ## Implement Arcaflow Roadmap
 
 **Date: 2024-07-03**
