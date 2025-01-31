@@ -98,6 +98,30 @@ Matt Leader has been nominated and approved as an Arcalot Chair.
 
 * *None*
 
+## Use hosted renovate for dependency management
+
+**Date: 2023-07-12**
+
+An internally-hosted renovate instance and associated configuration files will be used to manage dependencs across the Arcalot organization repos.
+
+- Pull request: [#29](https://github.com/arcalot/arcalot-round-table/pull/29)
+- Proposal: [proposals/2023-03-08-automated-dependency-updates.md](proposals/2023-03-08-automated-dependency-updates.md)
+
+### Voted in favor:
+
+* [@mfleader](https://github.com/mfleader)
+* [@jdowni000](https://github.com/jdowni000)
+* [@jaredoconnell](https://github.com/jaredoconnell)
+* [@Harshith-umesh](https://github.com/Harshith-umesh)
+* [@tsebastiani](https://github.com/tsebastiani)
+* [@ozanunsal](https://github.com/ozanunsal)
+* [@dustinblack](https://github.com/dustinblack)
+* [@sandrobonazzola](https://github.com/sandrobonazzola)
+
+### Voted against:
+
+* *None*
+
 ## Promotion Justin Downie to Chair
 
 **Date: 2023-05-19**
