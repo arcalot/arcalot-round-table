@@ -2,6 +2,27 @@
 
 This file keeps a record of all decisions made by the Arcalot Round Table and might be split over time as the ART continues.
 
+## Switch to Upstream Renovate
+
+**Date: 2025-05-05**
+
+Use the upstream Renovate GitHub App as a replacement for the existing Red Hat internally-hosted Renovate bot service.
+
+- Pull request: [#57](https://github.com/arcalot/arcalot-round-table/pull/57)
+- Proposal [proposals/2025-02-26-use-upstream-renovate.md](proposals/2025-02-26-use-upstream-renovate.md)
+
+### Submitted by:
+* [@dustinblack](https://github.com/dustinblack)
+
+### Voted in favor:
+* [@webbnh](https://github.com/webbnh)
+* [@jaredoconnell](https://github.com/jaredoconnell)
+* [@jdowni000](https://github.com/jdowni000)
+* [@dbutenhof](https://github.com/dbutenhof)
+
+### Voted Against:
+* *None*
+
 ## Charter Revision
 
 **Date: 2024-08-12**
