@@ -4,7 +4,7 @@ This file keeps a record of all decisions made by the Arcalot Round Table and mi
 
 ## Switch to Upstream Renovate
 
-**Date: 2025-05-05**
+**Date: 2025-03-05**
 
 Use the upstream Renovate GitHub App as a replacement for the existing Red Hat internally-hosted Renovate bot service.
 
