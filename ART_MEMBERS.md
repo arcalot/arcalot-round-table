@@ -8,7 +8,6 @@ By adding your name to this file you confirm that you understand and agree to th
 
 * [Dustin Black](https://github.com/dustinblack)
 * [Jared O'Connell](https://github.com/jaredoconnell)
-* [Justin Downie](https://github.com/jdowni000)
 * [Matthew F Leader](https://github.com/mfleader)
 
 
@@ -22,3 +21,4 @@ By adding your name to this file you confirm that you understand and agree to th
 * [Webb Scales](https://github.com/webbnh)
 * [Dave Butenhof](https://github.com/dbutenhof)
 * [Naga Ravi Chaitanya Elluri](https://github.com/chaitanyaenr)
+* [Justin Downie](https://github.com/jdowni000)
